@@ -1,4 +1,4 @@
-# Simple-Web-Scrapping-using-BeautifulSoup
+# Simple-Web-Scraping-using-BeautifulSoup
 Simple Web Scraping using BeautifulSoup on Python
 
 First of all we need to install beautifulsoup4. 
